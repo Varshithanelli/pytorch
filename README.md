@@ -1,4 +1,4 @@
-# Pytorch
+# Pytorch day 1
 I started my journey in learning pytorch, so here are some key points which I understood from the 1hr of the video from freeCodeCamp.org (https://youtu.be/V_xro1bcAuA?si=stuE-gxwsMDXe4nj):
 # Deep Learning: 
 Deep learning is a subset of machine learning that utilizes artificial neural networks with many layers (deep architectures) to model and understand complex patterns in data. It aims to mimic the human brain's structure and function by using interconnected layers of nodes (neurons) that process information. Deep learning has shown remarkable success in various tasks such as image and speech recognition, natural language processing, and reinforcement learning.
